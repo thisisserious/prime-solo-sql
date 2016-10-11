@@ -45,4 +45,4 @@ VALUES
 DELETE FROM syntax_practice
 WHERE city = 'miami'
 OR city = 'phoenix'
-AND transactions_completed < 5;
+AND transactions_completed < 5;U
